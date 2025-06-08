@@ -1,1 +1,5 @@
-# GT-MSA-S25-Trilemma-Team-14
+As a Senior Associate in the Research and Analytics department at FGS Global, I specialize in transforming complex data into compelling narratives, translating analytics into clear, actionable insights. My role encompasses rigorous research and advanced analytical methods to deliver strategic consulting and in-depth market intelligence. By proactively addressing and anticipating our clients' multifaceted challenges, I empower informed decision-making and drive strategic advantages.
+
+Currently pursuing my Master of Science in Analytics at the Georgia Institute of Technology, I am enhancing my expertise with advanced analytical techniques designed to solve real-world problems. This academic journey is driven by my unwavering commitment to the transformative power of data-driven decisions, a philosophy central to my professional practice.
+
+I am passionate about the convergence of data and strategy, with aspirations to lead within the analytics field. By cultivating a culture of curiosity, collaboration, and continuous learning, I aim not only to navigate but also to shape the future of analytics, delivering innovative solutions that align with and advance our clients' goals.
